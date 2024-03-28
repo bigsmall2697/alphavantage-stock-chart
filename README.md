@@ -1,8 +1,8 @@
-![reactjs-vite-tailwindcss-boilerplate](https://user-images.githubusercontent.com/16243531/217138979-b854309c-4742-4275-a705-f9fec5158217.jpg)
-
 # Alphavantage Stock Chart
 
 This is a simple react application to show a stock chart built with Alphavantage Stock API, Vite, React 18, TypeScript, TailwindCSS 3 and Highcharts.
+
+<b>Live Demo [here](https://master--comfy-clafoutis-c86b6c.netlify.app/)</b>
 
 ## What is inside?
 
